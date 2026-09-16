@@ -1,2 +1,1 @@
-# My-node-Red-practise
-Practise
+IOT161 Practise exersizes
